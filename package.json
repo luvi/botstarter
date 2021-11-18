@@ -1,0 +1,32 @@
+{
+  "name": "botstarter",
+  "version": "0.0.1",
+  "description": "a starter project to help you get going with building a bot on Twitter API v2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "NODE_ENV=local node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luvi/botstarter.git"
+  },
+  "keywords": [
+    "bot",
+    "twitter",
+    "api"
+  ],
+  "author": "Janique-ka John",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luvi/botstarter/issues"
+  },
+  "homepage": "https://github.com/luvi/botstarter#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "custom-env": "^2.0.1",
+    "oauth-1.0a": "^2.2.6",
+    "express": "^4.17.1"
+  }
+}
