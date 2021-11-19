@@ -42,7 +42,8 @@ const oauth = OAuth({
     }
   }
 
+  const intervalTime = 300000
 
-setInterval(function() {axios.request(options).then((res)=> console.log(res))}, intervaltime);
+setInterval(function() {axios.request(options).then((res)=> console.log(res))}, intervalTime);
 
 
