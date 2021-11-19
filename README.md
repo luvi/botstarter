@@ -4,6 +4,8 @@
 A starter project to help you quickly get started with building your own twitter bot. Built as part of a talk for GDG Devfest Caribbean 2021. See the full talk here: 
 [Build your bot](https://youtu.be/J-Fgay0rhUM?t=4110)
 
+[Donate](https://www.buymeacoffee.com/mekeilia)
+
 Uses Twitter API v2
 
 ## Usage/Examples
