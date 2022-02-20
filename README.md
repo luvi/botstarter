@@ -1,6 +1,8 @@
 
 # BotStarter
 
+[![twitter-api](https://img.shields.io/endpoint?url=https%3A%2F%2Ftwbadges.glitch.me%2Fbadges%2Fv2)
+
 A starter project to help you quickly get started with building your own twitter bot. Built as part of a talk for GDG Devfest Caribbean 2021. See the full talk here: 
 [Build your bot](https://youtu.be/J-Fgay0rhUM?t=4110)
 
