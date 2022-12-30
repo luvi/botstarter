@@ -1,6 +1,6 @@
 {
   "name": "botstarter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "a starter project to help you get going with building a bot on Twitter API v2",
   "main": "index.js",
   "scripts": {
